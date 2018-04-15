@@ -1,4 +1,4 @@
-Pandoc [:link:](http://pandoc.org/)
+Pandoc
 ---
 
 > Pandoc is a free and open-source software document converter, 
